@@ -1,0 +1,19 @@
+{
+  "name": "phase2-code-changelle-backend-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gladys6-arch/Backend-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gladys6-arch/Backend-API/issues"
+  },
+  "homepage": "https://github.com/gladys6-arch/Backend-API#readme",
+  "description": ""
+}
